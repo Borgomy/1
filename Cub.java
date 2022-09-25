@@ -1,5 +1,10 @@
 
     public class Cub{
+        
+        
+        
+        
+        
         int storona;
         String color;
         public Cub(){}
